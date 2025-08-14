@@ -36,3 +36,17 @@ This project performs **Sentiment Analysis** on Amazon product reviews using **N
 
 ---
 
+# ✅ Task 3 – Data Visualization (CodeAlpha Data Analytics Internship)
+
+> **📌 Important Note for Reviewers:**  
+> In addition to Task 3, I have also completed **Task 4 – Sentiment Analysis** as part of the internship.  
+> 🔗 [Click here to view Task 4 on GitHub](https://github.com/yourusername/CodeAlpha-Task4-Sentiment-Analysis)
+
+---
+
+## Task Objective (From CodeAlpha Guidelines)
+Transform raw data into visual formats like charts, graphs, and dashboards.
+Use tools like Matplotlib, Seaborn, or Tableau.
+Design visuals that clearly reveal trends and patterns.
+Craft compelling data stories that support business decision-making.
+Build a portfolio with impactful, well-designed visualizations.
