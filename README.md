@@ -39,8 +39,9 @@ This project performs **Sentiment Analysis** on Amazon product reviews using **N
 # ✅ Task 3 – Data Visualization (CodeAlpha Data Analytics Internship)
 
 > **📌 Important Note for Reviewers:**  
-> In addition to Task 3, I have also completed **Task 4 – Sentiment Analysis** as part of the internship.  
-> 🔗 [Click here to view Task 4 on GitHub](https://github.com/yourusername/CodeAlpha-Task4-Sentiment-Analysis)
+> In addition to Task 4, I have also completed additional **Task 3 – Sentiment Analysis** as part of the internship.
+> so i have completed all 4 tasks .
+> 🔗 [Click here to view Task  on GitHub](https://github.com/its-ranjima/CodeAlpha_DataVisualization.git)
 
 ---
 
